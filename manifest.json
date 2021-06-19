@@ -1,0 +1,7 @@
+{
+  "name": "supabaseFigmaPlugin",
+  "id": "988167857368369578",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
